@@ -1,0 +1,4 @@
+-- Run as postgres superuser:
+-- CREATE DATABASE portfolio_db;
+-- CREATE USER portfolio_user WITH ENCRYPTED PASSWORD 'securepassword';
+-- GRANT ALL PRIVILEGES ON DATABASE portfolio_db TO portfolio_user;
